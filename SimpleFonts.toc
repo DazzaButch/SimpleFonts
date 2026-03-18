@@ -1,0 +1,18 @@
+## Interface: 120000, 120001, 120005
+## Title: SimpleFonts
+## Notes: Clean font replacement within wow.
+## Author: Sh33p3rs
+## Version: 1.0.0
+## SavedVariables: SimpleFontsDB
+## OptionalDeps: LibSharedMedia-3.0
+
+LibStub.lua
+SimpleFontsAboutPanel.lua
+SimpleFontsHeading.lua
+SimpleFontsGroup.lua
+SimpleFontsScroll.lua
+
+SimpleFonts.lua
+sample.lua
+
+FontLister.lua
